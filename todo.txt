@@ -1,0 +1,8 @@
+1. Virtual Environment Create
+
+2. module installation: 
+* numpy 
+* pandas
+* matplotlib.pyplot
+* pandas_datareader
+* streamlit
